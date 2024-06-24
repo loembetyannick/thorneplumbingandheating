@@ -32,7 +32,6 @@ const Emergency = () => {
                 <div className='p-8 pt-2'>
                     <p className='pb-2 text-white font-light'>{`• Leak Detection and Repair: We quickly identify and fix leaks, preventing water damage and high utility bills.`}</p>
                     <p className='pb-2 text-white font-light'>{`• Burst Pipe Repair: Our experts can repair or replace burst pipes, ensuring your water supply is restored promptly.`}</p>
-                    <p className='pb-2 text-white font-light'>{`• Clogged Drains and Sewers: We address severe clogs and backups to keep your plumbing system running smoothly.`}</p>
                 </div>
             </div>
             <div className='bg-gray-700 h-72 flex items-center justify-center flex-col'>

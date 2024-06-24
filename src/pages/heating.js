@@ -22,7 +22,6 @@ const Heating = () => {
                 <div className='p-8 pt-2'>
                     <p className='pb-2 text-white font-light'>{`• Furnace Installation: We install high-efficiency furnaces to ensure your home stays warm and your energy bills stay low.`}</p>
                     <p className='pb-2 text-white font-light'>{`• Boiler Installation: Our experts can install modern boilers that provide consistent and efficient heating.`}</p>
-                    <p className='pb-2 text-white font-light'>{`• Heat Pump Installation: Enjoy year-round comfort with our energy-efficient heat pump installations.`}</p>
                 </div>
             </div>
             <div 
@@ -41,7 +40,6 @@ const Heating = () => {
                 <div className='p-8 pt-2'>
                     <p className='pb-2 text-white font-light'>{`• Furnace Repair: We diagnose and repair all types of furnace issues to restore your home's heating quickly.`}</p>
                     <p className='pb-2 text-white font-light'>{`• Heat Pump Repair: We handle all heat pump repairs, from minor issues to major malfunctions, to keep your system running smoothly.`}</p>
-                    <p className='pb-2 text-white font-light'>{`• Thermostat Repair and Replacement: Ensure accurate temperature control with our thermostat repair and replacement services.`}</p>
                 </div>
             </div>
             <div

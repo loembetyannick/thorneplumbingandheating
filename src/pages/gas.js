@@ -23,7 +23,6 @@ const Gas = () => {
                 <div className='p-8 pt-2'>
                     <p className='pb-2 text-white font-light'>{`• New Gas Lines: We install new gas lines for residential and commercial properties, ensuring they meet all safety standards and regulations.`}</p>
                     <p className='pb-2 text-white font-light'>{`• Gas Appliance Hookups: Our experts can safely connect gas appliances such as stoves, ovens, water heaters, and fireplaces.`}</p>
-                    <p className='pb-2 text-white font-light'>{`• Outdoor Gas Lines: We install gas lines for outdoor kitchens, grills, fire pits, and pool heaters, enhancing your outdoor living space.`}</p>
                 </div>
             </div>
             <div className='bg-gray-600 h-72 flex items-center justify-center flex-col'>
@@ -33,7 +32,6 @@ const Gas = () => {
                 <div className='p-8 pt-2'>
                     <p className='pb-2 text-white font-light'>{`• Leak Detection and Repair: We use advanced equipment to detect and repair gas leaks promptly, ensuring your safety.`}</p>
                     <p className='pb-2 text-white font-light'>{`• Pipe Replacement: If your gas pipes are old or damaged, we provide efficient replacement services to restore safety and functionality.`}</p>
-                    <p className='pb-2 text-white font-light'>{`• Emergency Gas Line Repair: Our team is available 24/7 to handle emergency gas line repairs and prevent potential hazards.`}</p>
                 </div>
             </div>
             <div className='bg-gray-700 h-72 flex items-center justify-center flex-col'>
