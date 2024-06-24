@@ -3,7 +3,7 @@ import Footer from '@/components/Footer'
 import Header from '@/components/Header'
 import React from 'react'
 
-const heating = () => {
+const Heating = () => {
   return (
     <div>
         <Header/>
@@ -20,9 +20,9 @@ const heating = () => {
                     <p className='text-white text-xl font-bold'>Heating System Installation</p>
                 </div>
                 <div className='p-8 pt-2'>
-                    <p className='pb-2 text-white font-light'>• Furnace Installation: We install high-efficiency furnaces to ensure your home stays warm and your energy bills stay low.</p>
-                    <p className='pb-2 text-white font-light'>• Boiler Installation: Our experts can install modern boilers that provide consistent and efficient heating.</p>
-                    <p className='pb-2 text-white font-light'>• Heat Pump Installation: Enjoy year-round comfort with our energy-efficient heat pump installations.</p>
+                    <p className='pb-2 text-white font-light'>- Furnace Installation: We install high-efficiency furnaces to ensure your home stays warm and your energy bills stay low.</p>
+                    <p className='pb-2 text-white font-light'>- Boiler Installation: Our experts can install modern boilers that provide consistent and efficient heating.</p>
+                    <p className='pb-2 text-white font-light'>- Heat Pump Installation: Enjoy year-round comfort with our energy-efficient heat pump installations.</p>
                 </div>
             </div>
             <div 
@@ -39,9 +39,9 @@ const heating = () => {
                     <p className='text-white text-xl font-bold'>Heating System Repair</p>
                 </div>
                 <div className='p-8 pt-2'>
-                    <p className='pb-2 text-white font-light'>• Furnace Repair: We diagnose and repair all types of furnace issues to restore your home's heating quickly.</p>
-                    <p className='pb-2 text-white font-light'>• Heat Pump Repair: We handle all heat pump repairs, from minor issues to major malfunctions, to keep your system running smoothly.</p>
-                    <p className='pb-2 text-white font-light'>• Thermostat Repair and Replacement: Ensure accurate temperature control with our thermostat repair and replacement services.</p>
+                    <p className='pb-2 text-white font-light'>- Furnace Repair: We diagnose and repair all types of furnace issues to restore your home's heating quickly.</p>
+                    <p className='pb-2 text-white font-light'>- Heat Pump Repair: We handle all heat pump repairs, from minor issues to major malfunctions, to keep your system running smoothly.</p>
+                    <p className='pb-2 text-white font-light'>- Thermostat Repair and Replacement: Ensure accurate temperature control with our thermostat repair and replacement services.</p>
                 </div>
             </div>
             <div
@@ -58,8 +58,8 @@ const heating = () => {
                     <p className='text-white text-xl font-bold'>Energy-Efficient Upgrades</p>
                 </div>
                 <div className='p-8 pt-2'>
-                    <p className='pb-2 text-white font-light'>• System Upgrades: Upgrade your old heating system to a new, energy-efficient model to reduce your energy bills and increase comfort.</p>
-                    <p className='pb-2 text-white font-light'>• Smart Thermostats: Improve your heating system's efficiency with smart thermostats that provide precise temperature control and remote access.</p>
+                    <p className='pb-2 text-white font-light'>- System Upgrades: Upgrade your old heating system to a new, energy-efficient model to reduce your energy bills and increase comfort.</p>
+                    <p className='pb-2 text-white font-light'>- Smart Thermostats: Improve your heating system's efficiency with smart thermostats that provide precise temperature control and remote access.</p>
                 </div>
             </div>
             <div 
@@ -77,4 +77,4 @@ const heating = () => {
   )
 }
 
-export default heating
+export default Heating

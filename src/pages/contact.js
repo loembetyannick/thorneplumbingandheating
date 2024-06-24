@@ -1,7 +1,7 @@
 import Header from '@/components/Header'
 import React, {useState} from 'react'
 
-const contact = () => {
+const Contact = () => {
 
   const [formData, setFormData] = useState({
     name: '',
@@ -92,4 +92,4 @@ const contact = () => {
   )
 }
 
-export default contact
+export default Contact
