@@ -17,8 +17,8 @@ const Jumbotron = () => {
             <Image
                 src="/tphlogo.png"
                 alt="TPH Logo"
-                width={100}
-                height={100}
+                width={150}
+                height={150}
             />
             </Link>
             <div className='flex justify-between items-center'>
