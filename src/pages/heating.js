@@ -34,7 +34,7 @@ const Heating = () => {
                 className='h-72 flex items-center justify-center'>
                 <p className='text-white'></p>
             </div>
-            <div className='bg-gray-500 h-72 flex items-center justify-center flex-col'>
+            <div className='bg-gray-600 h-72 flex items-center justify-center flex-col'>
                 <div>
                     <p className='text-white text-xl font-bold'>{`Heating System Repair`}</p>
                 </div>
@@ -53,7 +53,7 @@ const Heating = () => {
                 className='h-72 flex items-center justify-center'>
                 <p className='text-white'></p>
             </div>
-            <div className='bg-gray-500 h-72 flex items-center justify-center flex-col'>
+            <div className='bg-gray-700 h-72 flex items-center justify-center flex-col'>
                 <div>
                     <p className='text-white text-xl font-bold'>{`Energy-Efficient Upgrades`}</p>
                 </div>

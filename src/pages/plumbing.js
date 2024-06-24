@@ -35,7 +35,7 @@ const Plumbing = () => {
                 className='h-72 flex items-center justify-center'>
                 <p className='text-white'></p>
             </div>
-            <div className='bg-gray-500 h-72 flex items-center justify-center flex-col'>
+            <div className='bg-gray-600 h-72 flex items-center justify-center flex-col'>
                 <div>
                     <p className='text-white text-xl font-bold'>{`Drain Cleaning`}</p>
                 </div>
@@ -54,7 +54,7 @@ const Plumbing = () => {
                 className='h-72 flex items-center justify-center'>
                 <p className='text-white'></p>
             </div>
-            <div className='bg-gray-500 h-72 flex items-center justify-center flex-col'>
+            <div className='bg-gray-700 h-72 flex items-center justify-center flex-col'>
                 <div>
                     <p className='text-white text-xl font-bold'>{`Boiler Installation and Repair`}</p>
                 </div>
