@@ -17,10 +17,10 @@ export default function Home() {
           <p className='text-4xl font-bold'>All Services</p>
         </div>
         <div className='pt-2 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4'>
-          <Services text='PLUMBING' cover={'plumbing-0.jpeg'}/>
-          <Services text='HEATING' cover={'plumbing-1.jpeg'}/>
-          <Services text='GAS' cover={'plumbing-2.jpeg'}/>
-          <Services text='EMERGENCY CALL OUT' cover={'plumbing-3.webp'}/>
+          <Services text='PLUMBING' cover={'plumbing-0.jpeg'} page={'/plumbing'}/>
+          <Services text='HEATING' cover={'plumbing-1.jpeg'} page={'/heating'}/>
+          <Services text='GAS' cover={'plumbing-2.jpeg'} page={'/gas'}/>
+          <Services text='EMERGENCY CALL OUT' cover={'plumbing-3.webp'} page={'/emergency'}/>
         </div>
       </div>
       <Footer/>
